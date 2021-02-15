@@ -12,3 +12,16 @@
 ## Preview
 
 <img src="screen.png">
+
+### Installation
+
+git clone https://github.com/LuciLua/ScreenShared
+
+#### How to use
+
+python  receiver.py
+python sender.py
+
+### Stop
+
+STOP
