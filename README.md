@@ -20,6 +20,9 @@ git clone https://github.com/LuciLua/ScreenShared
 #### How to use
 
 python  receiver.py
+
+<br>
+
 python sender.py
 
 ### Stop
